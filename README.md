@@ -55,7 +55,7 @@ Esta é uma API RESTful para gerenciar usuários em um banco de dados PostgreSQL
 
 5. Inicie o servidor:
    ```bash
-   npm start
+   npm run dev
    ```
 
 O servidor será iniciado na porta 3030 por padrão.
