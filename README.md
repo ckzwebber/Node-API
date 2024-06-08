@@ -28,7 +28,7 @@ Esta é uma API RESTful para gerenciar usuários em um banco de dados PostgreSQL
 
    ```bash
    git clone https://github.com/ckzwebber/Users-Node-API.git
-   cd Users-Node-PI
+   cd Node-API
    ```
 
 2. Instale as dependências:
