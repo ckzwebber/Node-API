@@ -1,0 +1,25 @@
+POST http://localhost:3030/user
+Content-Type: application/json
+
+{
+    "username": "testingUsername",
+    "password": "testintHashPassword"
+}
+
+###
+
+GET http://localhost:3030/user
+
+###
+
+PUT http://localhost:3030/user/
+Content-Type: application/json
+
+{
+    "username": "testingPutUsername",
+    "password": "testingPutPassword"
+}
+
+###
+
+DELETE http://localhost:3030/user/
